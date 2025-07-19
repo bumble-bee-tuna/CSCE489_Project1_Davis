@@ -9,7 +9,6 @@
 	- create <filename>: create a new file
 	- list <filename>: display the contents of a file
 	- update <filename> <number> "<text>": append text to a file multiple times
-	-- implement background vs. foreground functionality via & in last argument
 	-- can also be ran in background via & in last argument
 */
 
