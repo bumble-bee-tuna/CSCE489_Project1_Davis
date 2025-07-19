@@ -88,10 +88,6 @@ void update(const char *filename, int number, const char *text) {
 int main(int argc, char *argv[]) {
 
 	char input[1024];
-
-
-	
-
 	
 	while (1) {
 		
